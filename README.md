@@ -1,3 +1,1 @@
-Tutorial
-
-Das ist nur ein Test
+@author: Jonah Huber
