@@ -1,1 +1,1 @@
-@author: Jonah Huber
+@author: Jonah Huber, Lauritz Rasbach
